@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Professional-SQL-Server-High-Availability-and-Disaster-Recovery.svg)](https://github.com/TrainingByPackt/Professional-SQL-Server-High-Availability-and-Disaster-Recovery/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Professional-SQL-Server-High-Availability-and-Disaster-Recovery.svg)](https://github.com/TrainingByPackt/Professional-SQL-Server-High-Availability-and-Disaster-Recovery/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Professional-SQL-Server-High-Availability-and-Disaster-Recovery.svg)](https://github.com/TrainingByPackt/Professional-SQL-Server-High-Availability-and-Disaster-Recovery/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Professional-SQL-Server-High-Availability-and-Disaster-Recovery/pulls)
+
 # Professional SQL Server High Availability and Disaster Recovery
 The Professional SQL Server High Availability and Disaster Recovery course explains the high availability and the disaster recovery technologies, their technical implementation, and different topologies that you can use when creating a highly available infrastructure with hybrid topologies.
 When you complete the course, you'll feel confident and look forward to changing the game with a robust and high performing infrastructure.
