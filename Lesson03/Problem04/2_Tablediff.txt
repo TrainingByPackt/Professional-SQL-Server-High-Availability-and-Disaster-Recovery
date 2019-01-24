@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\130\COM\tablediff.exe" -sourceserver Neptune\SQL2016 -sourcedatabase AdventureWorks -sourcetable Store -sourceschema Sales -destinationServer Neptune\SQL2014 -destinationdatabase AdventureWorks -destinationtable Store -destinationschema Sales -f "C:\Code\Lesson04\Problem04\SalesStorediff.sql"

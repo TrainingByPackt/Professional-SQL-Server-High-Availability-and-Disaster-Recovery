@@ -1,0 +1,1 @@
+D:\Setup.exe /SQLSVCPASSWORD="Awesome@1234" /SAPWD="SQL@2016" /ConfigurationFile=C:\Scripts\SQLConfiguration.INI /Q /IAcceptSQLServerLicenseTerms

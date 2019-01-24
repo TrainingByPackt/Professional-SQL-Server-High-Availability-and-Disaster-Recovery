@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\130\COM\DISTRIB.EXE" -Publisher WIN2012R2\SQL2016 -PublisherDB [WideWorldImporters] -Publication [WWI-Snapshot] -Distributor [WIN2012R2\SQL2016] -SubscriptionType 1 -Subscriber [WIN2012R2\SQL2014] -SubscriberSecurityMode 1 -SubscriberDB [WideWorldImporters]   

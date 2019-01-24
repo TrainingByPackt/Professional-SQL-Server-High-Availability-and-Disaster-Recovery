@@ -1,0 +1,8 @@
+REM -- Change the variable values as per your environment
+SET Publisher=WIN2012R2\SQL2016
+SET PublisherDB=WideWorldImporters
+SET Publication=WWI-Snapshot
+
+"C:\Program Files\Microsoft SQL Server\130\COM\SNAPSHOT.EXE" -Publisher %Publisher% -PublisherDB %PublisherDB% -Distributor %Publisher% -Publication %Publication% -DistributorSecurityMode 1 
+
+
